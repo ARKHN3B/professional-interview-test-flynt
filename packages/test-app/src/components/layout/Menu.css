@@ -1,0 +1,19 @@
+.c-slider.c-menu {
+    --slider-width: unset;
+
+    background-color: #ee00a51a;
+}
+
+.c-menu .mdc-list-item a {
+    display: flex;
+    align-items: center;
+
+    text-decoration: none;
+    color: black;
+
+    width: 100%;
+}
+
+.c-menu .mdc-list-item a.active {
+    color: var(--mdc-theme-primary);
+}

@@ -1,0 +1,10 @@
+.c-field-row {
+    display: flex;
+    align-items: center;
+
+    gap: 10px
+}
+
+.c-field-row .c-field {
+    flex: 1;
+}

@@ -1,0 +1,7 @@
+.c-slider__header {
+    display: flex;
+}
+
+.c-slider__header div:first-child {
+    flex: 1;
+}
